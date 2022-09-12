@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.placelist {
+  text-align: center;
+  display: grid;
+}
+img {
+  width: 600px;
+  height: 320px;
+}
